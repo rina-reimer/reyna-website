@@ -3,12 +3,14 @@
 --------------------------------------------------------------*/
 /* colors */
 :root {
-  --color-primary: #f00;
-  --color-secondary: #0f0;
-  --color-link: #00f;
-  --color-highlight: #00a;
-  --color-black: #000;
-  --color-white: #fff;
+  --color-primary: #11744b;
+  --color-secondary: #164932;
+  --color-link: #4b40b9;
+  --color-highlight: #4b40b9;
+  --color-black: #1d2421;
+  --color-white: #dee2e5;
+  --color-true-white: #fff;
+  --color-true-black: #000;
 }
 
 body {
